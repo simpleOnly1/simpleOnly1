@@ -2,11 +2,10 @@
 
 ## 💼 Experience
 
-- 🏢 **Senior Development Engineer**, Tencent
-- 🏢 **Senior Development Engineer**, Baidu
+- 🏢 **Former Senior Development Engineer**, Tencent & Baidu
 - 🎓 **PhD Candidate**, Xi’an University of Technology
 
 ## 🎓 Research Interests
 
 - 🌙 Low-light Image Restoration
-- 🔍 Low-light Depth Estimation
+- 🔍 Nighttime Depth Estimation
