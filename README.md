@@ -16,5 +16,5 @@
 
 ## 📫 Contact
 
-- ✉️ Email: alexgbzhou@gmial.com
-- 🌐 Homepage: [Blog](https://blog.csdn.net/baidu_33597755)
+- ✉️ Email: alexgbzhou@gmail.com
+- 🌐 Homepage: [My Blog](https://blog.csdn.net/baidu_33597755)
